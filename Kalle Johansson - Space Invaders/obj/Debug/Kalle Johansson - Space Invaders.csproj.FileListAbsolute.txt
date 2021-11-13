@@ -1,0 +1,20 @@
+G:\Min enhet\Åk 2\Programmering 2\Project\Kalle Johansson - Space Invaders\Kalle Johansson - Space Invaders\obj\Debug\Kalle Johansson - Space Invaders.csprojAssemblyReference.cache
+G:\Min enhet\Åk 2\Programmering 2\Project\Kalle Johansson - Space Invaders\Kalle Johansson - Space Invaders\obj\Debug\Kalle_Johansson___Space_Invaders.Form1.resources
+G:\Min enhet\Åk 2\Programmering 2\Project\Kalle Johansson - Space Invaders\Kalle Johansson - Space Invaders\obj\Debug\Kalle_Johansson___Space_Invaders.Properties.Resources.resources
+G:\Min enhet\Åk 2\Programmering 2\Project\Kalle Johansson - Space Invaders\Kalle Johansson - Space Invaders\obj\Debug\Kalle Johansson - Space Invaders.csproj.GenerateResource.cache
+G:\Min enhet\Åk 2\Programmering 2\Project\Kalle Johansson - Space Invaders\Kalle Johansson - Space Invaders\obj\Debug\Kalle Johansson - Space Invaders.csproj.CoreCompileInputs.cache
+G:\Min enhet\Åk 2\Programmering 2\Project\Kalle Johansson - Space Invaders\Kalle Johansson - Space Invaders\bin\Debug\Kalle Johansson - Space Invaders.exe.config
+G:\Min enhet\Åk 2\Programmering 2\Project\Kalle Johansson - Space Invaders\Kalle Johansson - Space Invaders\bin\Debug\Kalle Johansson - Space Invaders.exe
+G:\Min enhet\Åk 2\Programmering 2\Project\Kalle Johansson - Space Invaders\Kalle Johansson - Space Invaders\bin\Debug\Kalle Johansson - Space Invaders.pdb
+G:\Min enhet\Åk 2\Programmering 2\Project\Kalle Johansson - Space Invaders\Kalle Johansson - Space Invaders\obj\Debug\Kalle Johansson - Space Invaders.exe
+G:\Min enhet\Åk 2\Programmering 2\Project\Kalle Johansson - Space Invaders\Kalle Johansson - Space Invaders\obj\Debug\Kalle Johansson - Space Invaders.pdb
+G:\Min enhet\SY19 Kalle Johansson\Programmering 2\Projekt\Kalle Johansson - Space Invaders\Kalle Johansson - Space Invaders\bin\Debug\Kalle Johansson - Space Invaders.exe.config
+G:\Min enhet\SY19 Kalle Johansson\Programmering 2\Projekt\Kalle Johansson - Space Invaders\Kalle Johansson - Space Invaders\bin\Debug\Kalle Johansson - Space Invaders.exe
+G:\Min enhet\SY19 Kalle Johansson\Programmering 2\Projekt\Kalle Johansson - Space Invaders\Kalle Johansson - Space Invaders\bin\Debug\Kalle Johansson - Space Invaders.pdb
+G:\Min enhet\SY19 Kalle Johansson\Programmering 2\Projekt\Kalle Johansson - Space Invaders\Kalle Johansson - Space Invaders\obj\Debug\Kalle_Johansson___Space_Invaders.Form1.resources
+G:\Min enhet\SY19 Kalle Johansson\Programmering 2\Projekt\Kalle Johansson - Space Invaders\Kalle Johansson - Space Invaders\obj\Debug\Kalle_Johansson___Space_Invaders.Properties.Resources.resources
+G:\Min enhet\SY19 Kalle Johansson\Programmering 2\Projekt\Kalle Johansson - Space Invaders\Kalle Johansson - Space Invaders\obj\Debug\Kalle Johansson - Space Invaders.csproj.GenerateResource.cache
+G:\Min enhet\SY19 Kalle Johansson\Programmering 2\Projekt\Kalle Johansson - Space Invaders\Kalle Johansson - Space Invaders\obj\Debug\Kalle Johansson - Space Invaders.csproj.CoreCompileInputs.cache
+G:\Min enhet\SY19 Kalle Johansson\Programmering 2\Projekt\Kalle Johansson - Space Invaders\Kalle Johansson - Space Invaders\obj\Debug\Kalle Johansson - Space Invaders.exe
+G:\Min enhet\SY19 Kalle Johansson\Programmering 2\Projekt\Kalle Johansson - Space Invaders\Kalle Johansson - Space Invaders\obj\Debug\Kalle Johansson - Space Invaders.pdb
+G:\Min enhet\SY19 Kalle Johansson\Programmering 2\Projekt\Kalle Johansson - Space Invaders\Kalle Johansson - Space Invaders\obj\Debug\Kalle Johansson - Space Invaders.csproj.AssemblyReference.cache

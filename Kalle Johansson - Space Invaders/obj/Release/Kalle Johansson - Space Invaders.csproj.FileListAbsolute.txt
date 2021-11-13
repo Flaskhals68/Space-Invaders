@@ -1,0 +1,9 @@
+C:\Users\kalle.johansson3\source\repos\Kalle Johansson - Space Invaders\Kalle Johansson - Space Invaders\bin\Release\Kalle Johansson - Space Invaders.exe.config
+C:\Users\kalle.johansson3\source\repos\Kalle Johansson - Space Invaders\Kalle Johansson - Space Invaders\bin\Release\Kalle Johansson - Space Invaders.exe
+C:\Users\kalle.johansson3\source\repos\Kalle Johansson - Space Invaders\Kalle Johansson - Space Invaders\bin\Release\Kalle Johansson - Space Invaders.pdb
+C:\Users\kalle.johansson3\source\repos\Kalle Johansson - Space Invaders\Kalle Johansson - Space Invaders\obj\Release\Kalle_Johansson___Space_Invaders.Form1.resources
+C:\Users\kalle.johansson3\source\repos\Kalle Johansson - Space Invaders\Kalle Johansson - Space Invaders\obj\Release\Kalle_Johansson___Space_Invaders.Properties.Resources.resources
+C:\Users\kalle.johansson3\source\repos\Kalle Johansson - Space Invaders\Kalle Johansson - Space Invaders\obj\Release\Kalle Johansson - Space Invaders.csproj.GenerateResource.cache
+C:\Users\kalle.johansson3\source\repos\Kalle Johansson - Space Invaders\Kalle Johansson - Space Invaders\obj\Release\Kalle Johansson - Space Invaders.csproj.CoreCompileInputs.cache
+C:\Users\kalle.johansson3\source\repos\Kalle Johansson - Space Invaders\Kalle Johansson - Space Invaders\obj\Release\Kalle Johansson - Space Invaders.exe
+C:\Users\kalle.johansson3\source\repos\Kalle Johansson - Space Invaders\Kalle Johansson - Space Invaders\obj\Release\Kalle Johansson - Space Invaders.pdb
